@@ -1,16 +1,48 @@
 <!-- <div class="site-logo" role="img" aria-label="{{ site.title }}">SARYA</div> -->
 
-<script src="https://cdn.tailwindcss.com"></script>
 
-<div class="flex items-center">
-  <a href="https://www.sarya.com/">
-    <div class="flex h-12 w-12 items-center justify-center rounded-xl border border-purple-100 bg-white bg-opacity-100">
-      <!-- You had the logo image inside a comment; I've uncommented it -->
-      <img class="h-7" src="https://www.sarya.com/img/logo.svg" alt="logo" />
+<div class="container">
+  <a href="https://www.sarya.com/" class="logo-link">
+    <div class="logo-container">
+      <img class="logo" src="https://www.sarya.com/img/logo.svg" alt="logo" />
     </div>
   </a>
-  <!-- The link for the 'sarya' image should be separate from the logo link if they are meant to be different -->
-  <a href="https://www.sarya.com/">
-    <img class="ml-2 mt-1 h-6" src="https://www.sarya.com/img/sarya.svg" alt="sarya" />
+  <a href="https://www.sarya.com/" class="sarya-link">
+    <img class="sarya" src="https://www.sarya.com/img/sarya.svg" alt="sarya" />
   </a>
 </div>
+
+<style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* Added for justify-start */
+}
+
+.logo-link, .sarya-link {
+  text-decoration: none;
+}
+
+.logo-container {
+  display: flex;
+  height: 48px; /* h-12 */
+  width: 48px; /* w-12 */
+  align-items: center;
+  justify-content: center;
+  border-radius: 1rem; /* rounded-xl */
+  border: 1px solid #E5E7EB; /* border-purple-100 */
+  background-color: #FFFFFF; /* bg-white */
+  opacity: 1; /* bg-opacity-100 */
+}
+
+.logo {
+  height: 28px; /* h-7 */
+}
+
+.sarya {
+  margin-left: 8px; /* ml-2 */
+  margin-top: 4px; /* mt-1 */
+  height: 24px; /* h-6 */
+}
+
+</style>
