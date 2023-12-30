@@ -1,12 +1,12 @@
 ---
 layout: default
-title: ⚡️ Getting started
+title: Getting started
 nav_order: 2
 description: "..."
 permalink: /getting-started
 ---
 
-# ⚡️ Getting started
+#  Getting started
 
 Sarya is a python framework for building, and publishing AI applications. It provides everything you need to transform your project into beautiful UI across multiple platforms. 
 
