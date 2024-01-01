@@ -55,8 +55,6 @@ def ai():
 
 sarya.run()
 ```
-
-### 6. Extra: Mirror 🪞
 Here is another app that just replies back to user what they wrote, basically a mirror:
 ```py
 from sarya import Sarya, UI
