@@ -8,10 +8,16 @@ permalink: /ui-elements
 
 ## UI elements
 
+```py
+from sarya import UI
+```
+
 ### Text
 ```py
 UI.Text("Example String")
 ```
+
+> html showed via render.js?
 
 ### Image
 ```py
