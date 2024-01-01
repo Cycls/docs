@@ -8,7 +8,7 @@ permalink: /
 
 ## Sarya
 
-**Sarya** is a software framework to build, publish, and share your AI powered apps.
+**Sarya** is a software framework to build, publish, and share customer facing AI powered apps.
 
 > github,discord, links
 
