@@ -25,7 +25,7 @@ make the `Sarya` client with your key:
 ```py
 from sarya import Sarya, UI
 
-sarya = Sarya("sk-...")
+sarya = Sarya("SECRET")
 ```
 
 ### 3. Add the Entry Point
@@ -47,7 +47,7 @@ The full example:
 ```py
 from sarya import Sarya, UI
 
-sarya = Sarya("sk-...")
+sarya = Sarya("SECRET")
 
 @sarya.name("@my-app")
 def ai():
@@ -59,7 +59,7 @@ Here is another app that just replies back to user what they wrote, basically a 
 ```py
 from sarya import Sarya, UI
  
-sarya = Sarya("sk-...")
+sarya = Sarya("SECRET")
 
 @sarya.name("@my-app")
 def ai(messages):
