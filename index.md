@@ -10,6 +10,8 @@ permalink: /
 
 **Sarya** is a software framework to build, publish, and share customer facing AI powered apps.
 
+> AI/UI+Generative UI motivation
+
 > github,discord, links
 
 ## Features
