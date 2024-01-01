@@ -18,30 +18,26 @@ in order to get started make sure you get your `SECRET-KEY` from the developer p
 pip install sarya
 ```
 
-or using poetry
-```sh
-poetry add sarya
-```
-
 ### 2. Initiate Sarya Client
 
-With `Sarya` client you need to provide your Key from [Sarya Platform](https://platform.sarya.com):
+make the `Sarya` client with your key:
 
 ```py
 from sarya import Sarya, UI
 
-sarya = Sarya(key="sk-...")
+sarya = Sarya("sk-...")
 ```
 
 ### 3. Add the Entry Point
-The main function works as the entry point of your marid, in this example we just send "Hello World!" for each user request.
+A main function works as the entry point of your app. Designate your main function with a name `@app.app("@my-app")`. in this example we just send "Hello World!" for each user request.
 ```py
-def main():
+@sarya.name("@my-app")
+def ai():
     return UI.Text("Hello World!")
 ```
 
 ### 4. Run the Server
-Sarya's marids are just regular servers. Your app/marid is published with `run()` so that Sarya calls to it with each relevant request:
+Your app is published with `run()` so that Sarya calls to it with each relevant request:
 ```py
 sarya.run()
 ```
@@ -51,22 +47,24 @@ The full example:
 ```py
 from sarya import Sarya, UI
 
-sarya = Sarya(key="sk-...")
+sarya = Sarya("sk-...")
 
-def main():
+@sarya.name("@my-app")
+def ai():
     return UI.Text("Hello World!")
 
 sarya.run()
 ```
 
 ### 6. Extra: Mirror 🪞
-Here is another marid that just replies back to user what they wrote, basically a mirror:
+Here is another app that just replies back to user what they wrote, basically a mirror:
 ```py
 from sarya import Sarya, UI
  
-sarya = Sarya(key="sk-...")
+sarya = Sarya("sk-...")
 
-def main(messages):
+@sarya.name("@my-app")
+def ai(messages):
     return UI.Text(messages[0]["content"]) # incoming messages
 
 sarya.run()
