@@ -6,7 +6,7 @@ description: "..."
 permalink: /ui-elements
 ---
 
-# UI elements
+## UI elements
 
 ### Text
 ```py
