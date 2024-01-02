@@ -19,7 +19,6 @@ in order to get started make sure you sign-up and get your `SECRET-KEY` from the
 pip install sarya
 ```
 
-<br/><br/>
 ### 2. Initiate Sarya Client
 
 make the `Sarya` client with your key:
@@ -30,7 +29,6 @@ from sarya import Sarya, UI
 sarya = Sarya("SECRET")
 ```
 
-<br/><br/>
 ### 3. Add the Entry Point
 Define the entry point of your application with a `@sarya("@my-app")`. In this example, the function responds with "Hello World!" to each user request.
 ```py
