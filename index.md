@@ -16,6 +16,7 @@ permalink: /
 
 **Sarya** is a generative UI framework to build, publish, and share customer facing AI powered apps.
 
+<br/><br/>
 ## Generative UI
 
 **Generative UI** (User Interface) refers to user interfaces designed or enhanced by AI. Unlike traditional manual UI design, generative UI uses automated processes to create or modify interface elements based on user behavior. It adapts dynamically to different users or contexts, improving personalization and usability.
