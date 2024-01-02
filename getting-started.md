@@ -37,7 +37,6 @@ def ai():
     return UI.Text("Hello World!")
 ```
 
-<br/><br/>
 ### 4. Hello World! 👋
 The full example:
 ```py
@@ -49,6 +48,7 @@ sarya = Sarya("SECRET")
 def ai():
     return UI.Text("Hello World!")
 ```
+<br/><br/>
 This app mirrors user input by responding back with the same text.
 ```py
 from sarya import Sarya, UI
