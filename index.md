@@ -6,6 +6,10 @@ description: "..."
 permalink: /
 ---
 
+<p align="center">
+<img style="height: 75px;" src="https://www.sarya.com/img/logo.svg" alt="logo" />
+</p>
+
 ## Sarya
 
 **Sarya** is a software framework to build, publish, and share customer facing AI powered apps.
