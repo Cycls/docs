@@ -26,7 +26,7 @@ With Sarya:
 
 
 ## How it works
-![digram](/static/digram.png)
+![digram](./static/digram.png)
 
 
 
