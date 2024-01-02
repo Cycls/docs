@@ -10,17 +10,17 @@ permalink: /
 <img style="height: 75px;" src="https://www.sarya.com/img/logo.svg" alt="logo" />
 </p>
 
-## Generative UI
-
-Generative UI (User Interface) refers to user interfaces designed or enhanced by AI. Unlike traditional manual UI design, generative UI uses automated processes to create or modify interface elements based on user behavior. It adapts dynamically to different users or contexts, improving personalization and usability.
-
-Generative UIs are an upgrade in UI development, mirroring the rise of generative AI.
+> github,discord...
 
 ## Sarya
 
-**Sarya** is a Generative UI framework to build, publish, and share customer facing AI powered apps.
+**Sarya** is a generative UI framework to build, publish, and share customer facing AI powered apps.
 
-> github,discord...
+## Generative UI
+
+**Generative UI** (User Interface) refers to user interfaces designed or enhanced by AI. Unlike traditional manual UI design, generative UI uses automated processes to create or modify interface elements based on user behavior. It adapts dynamically to different users or contexts, improving personalization and usability.
+
+Generative UIs are an upgrade in UI development, mirroring the rise of generative AI.
 
 ## Features
 With Sarya:
