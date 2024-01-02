@@ -18,7 +18,7 @@ In order to get started make sure you sign-up and get your `SECRET-KEY` from the
 pip install sarya
 ```
 
-### define Sarya Client
+### Define Sarya Client
 
 make the `Sarya` client with your key:
 
