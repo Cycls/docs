@@ -18,7 +18,7 @@ permalink: /
 
 ## Generative UI
 
-**Generative UI** (User Interface) refers to user interfaces designed or enhanced by AI. Unlike traditional manual UI design, generative UI uses automated processes to create or modify interface elements based on user behavior. It adapts dynamically to different users or contexts, improving personalization and usability.
+**Generative UI** (User Interface) refers to user interfaces designed or enhanced by AI. Unlike traditional manual UI design, generative UI uses automated processes to create or modify interface elements based on user behavior. It adapts dynamically to different users or contexts, improving personalization and usability. (WIP)
 
 Generative UIs are an upgrade in UI development, mirroring the rise of generative AI.
 
