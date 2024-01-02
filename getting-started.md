@@ -12,13 +12,13 @@ Sarya is a python framework for building, and publishing AI applications. It pro
 
 <br/><br/>
 In order to get started make sure you sign-up and get your `SECRET-KEY` from the developer platform at [platform.sarya.com](https://platform.sarya.com).
-### 1. Install
+### Install
 
 ```sh
 pip install sarya
 ```
 
-### 2. Initiate Sarya Client
+### define Sarya Client
 
 make the `Sarya` client with your key:
 
@@ -28,16 +28,17 @@ from sarya import Sarya, UI
 sarya = Sarya("SECRET")
 ```
 
-### 3. Add the Entry Point
-Define the entry point of your application with a `@sarya("@name-of-your-app")`. In this example, the function responds with "Hello World!" to each user request.
+### Add entry-point to your app
+Add the entry-point of your application with a `@sarya("@name-of-your-app")`:
 ```py
 @sarya("@name-of-your-app")
 def ai():
     return UI.Text("Hello World!")
 ```
+In this example, the function responds with "Hello World!" to each user request.
 
-### 4. Hello World! 👋
-The full example:
+### Hello World!
+The full code:
 ```py
 from sarya import Sarya, UI
 
