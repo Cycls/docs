@@ -29,9 +29,9 @@ sarya = Sarya("SECRET")
 ```
 
 ### 3. Add the Entry Point
-Define the entry point of your application with a `@sarya("@my-app")`. In this example, the function responds with "Hello World!" to each user request.
+Define the entry point of your application with a `@sarya("@name-of-your-app")`. In this example, the function responds with "Hello World!" to each user request.
 ```py
-@sarya("@my-app")
+@sarya("@name-of-your-app")
 def ai():
     return UI.Text("Hello World!")
 ```
@@ -43,7 +43,7 @@ from sarya import Sarya, UI
 
 sarya = Sarya("SECRET")
 
-@sarya.name("@my-app")
+@sarya("@name-of-your-app")
 def ai():
     return UI.Text("Hello World!")
 ```
