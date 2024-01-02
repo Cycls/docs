@@ -25,9 +25,8 @@ With Sarya:
 - **Multimodal I/O**: Starting with text input, and expanding to voice, image, and video data inputs.
 
 
-## How it work
-
-The digram
+## How it works
+![digram](/static/digram.png)
 
 
 
