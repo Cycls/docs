@@ -28,5 +28,8 @@ With Sarya:
 ## How it works
 ![digram](./static/digram.png)
 
+- **UI Events**: Captures user inputs as UI evenet across multiple platforms.
+- **Superchat (Sarya)**: Middleware that interprets UI events, determines necessary actions, and routes events to the corresponding applications.
+- **Apps**: Third-party and proprietary applications published to Superchat, each with a unique handler for accessibility and streamlined event handling.
 
 
