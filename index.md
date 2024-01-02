@@ -37,7 +37,7 @@ With Sarya:
 ![digram](./static/digram.png)
 <br/><br/>
 - **UI Events**: Captures user inputs as UI evenet across multiple platforms.
-- **Superchat (Sarya)**: central hub that interprets UI events and routes to apps accordingly.
+- **Superchat (Sarya)**: Central hub that interprets UI events and routes to apps accordingly.
 - **Apps**: Published third-party apps on Superchat, each with a public handler.
 
 
