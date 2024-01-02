@@ -49,7 +49,7 @@ def ai():
     return UI.Text("Hello World!")
 ```
 <br/><br/>
-This app mirrors user input by responding back with the same text.
+This app mirrors user input by responding back with the same text:
 ```py
 from sarya import Sarya, UI
  
