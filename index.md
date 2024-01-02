@@ -14,7 +14,7 @@ permalink: /
 
 ## Sarya
 
-**Sarya** is a generative UI framework to build, publish, and share customer facing AI powered apps.
+**Sarya** is a generative UI framework to build, publish, and share AI powered apps. Sarya addresses the challenges involved in delivering AI-powered apps quickly to end users.
 
 ## Generative UI
 
