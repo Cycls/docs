@@ -10,9 +10,8 @@ permalink: /getting-started
 
 Sarya is a python framework for building, and publishing AI applications. It provides everything you need to transform your project into beautiful UI across multiple platforms. 
 
-in order to get started make sure you sign-up and get your `SECRET-KEY` from the developer platform at [platform.sarya.com](https://platform.sarya.com).
-
 <br/><br/>
+in order to get started make sure you sign-up and get your `SECRET-KEY` from the developer platform at [platform.sarya.com](https://platform.sarya.com).
 ### 1. Install
 
 ```sh
