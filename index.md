@@ -14,8 +14,6 @@ permalink: /
 
 > github,discord, links
 
-<br/><br/>
-<br/><br/>
 ## Features
 With Sarya:
 - **100% control over your code**: Maintain your app logic and data on your infrastructure.
@@ -27,10 +25,8 @@ With Sarya:
 - **Multimodal I/O**: Starting with text input, and expanding to voice, image, and video data inputs.
 
 <br/><br/>
-<br/><br/>
 ## How it works
 ![digram](./static/digram.png)
-<br/><br/>
 <br/><br/>
 - **UI Events**: Captures user inputs as UI evenet across multiple platforms.
 - **Superchat (Sarya)**: Middleware that interprets UI events, determines necessary actions, and routes events to the corresponding applications.
