@@ -10,7 +10,9 @@ permalink: /
 <img style="height: 75px;" src="https://www.sarya.com/img/logo.svg" alt="logo" />
 </p>
 
-> github,discord...
+> github
+
+> discord
 
 ## Sarya
 
