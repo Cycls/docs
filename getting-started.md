@@ -32,7 +32,7 @@ sarya = Sarya("SECRET")
 Add the entry-point of your application with a `@sarya("@name-of-your-app")`:
 ```py
 @sarya("@name-of-your-app")
-def ai():
+def app():
     return UI.Text("Hello World!")
 ```
 In this example, the function responds with "Hello World!" to each user request.
@@ -51,7 +51,7 @@ from sarya import Sarya, UI
 sarya = Sarya("SECRET")
 
 @sarya("@name-of-your-app")
-def ai():
+def app():
     return UI.Text("Hello World!")
 
 sarya.run()
