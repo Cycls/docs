@@ -5,7 +5,9 @@ nav_order: 4.1
 ---
 
 > messages obj
+
 > shape of messages
+
 > then chatGPT
 
 ## Mirror
@@ -16,6 +18,8 @@ from sarya import Sarya, UI
 sarya = Sarya("SECRET")
 
 @sarya("@name-of-your-app")
-def ai(messages):
+def app(messages):
     return UI.Text(messages[0]["content"]) # incoming messages
+
+sarya.run()
 ```
