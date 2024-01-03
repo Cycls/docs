@@ -37,9 +37,7 @@ Design, publish, and share customer facing AI apps with Sarya ⚡️
 
 ## Generative UI
 
-**Generative UIs** are an upgrade in UI development, mirroring the rise of generative AI.
-
-Generative UI is simply where AI designs or improves user interfaces, in contrast to the traditional manual approach by UI designers. AI generated UIs are constantly evolving to meet individual and contextual needs.
+**Generative UI** (User Interface) is simply when AI is constantly designing or improving user interfaces in response to dynamic user behavior. Generative UIs are an upgrade in UI development, mirroring the rise of generative AI. 
 
 ## Features
 With Sarya:
