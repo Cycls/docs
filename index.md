@@ -19,9 +19,6 @@ permalink: /
     </a>
 </div>
 
-
-> discord
-
 ## Sarya
 
 **Sarya** is a generative UI framework to build, publish, and share AI powered apps. Sarya addresses the challenges involved in delivering AI-powered apps quickly to end users.
