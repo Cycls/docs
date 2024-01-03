@@ -11,7 +11,7 @@ permalink: /getting-started
 Sarya is a python framework for building, and publishing AI applications. It simplifies the process of publishing your projects with user-friendly interfaces across multiple platforms.
 
 <br/><br/>
-In order to get started make sure you sign-up and get your `SECRET-KEY` from the developer platform at [platform.sarya.com](https://platform.sarya.com).
+In order to get started make sure you sign-up and get your `SECRET` key from the developer platform at [platform.sarya.com](https://platform.sarya.com).
 ### Install
 
 ```sh
@@ -37,6 +37,12 @@ def ai():
 ```
 In this example, the function responds with "Hello World!" to each user request.
 
+### Publish the app
+Publish your app by adding `run` at the end of your file:
+```py
+sarya.run()
+```
+
 ### Hello World!
 The full code:
 ```py
@@ -47,4 +53,6 @@ sarya = Sarya("SECRET")
 @sarya("@name-of-your-app")
 def ai():
     return UI.Text("Hello World!")
+
+sarya.run()
 ```
