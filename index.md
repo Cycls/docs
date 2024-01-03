@@ -37,7 +37,7 @@ Design, publish, and share end user AI apps with Sarya ⚡️
 
 ## Generative UI
 
-**Generative UI** (User Interface) is simply when AI is constantly designing or improving user interfaces in response to dynamic user behavior. Generative UIs are an upgrade in UI development, mirroring the rise of generative AI. 
+**Generative UI** (User Interface) is simply when AI is constantly designing and improving user interfaces in response to dynamic user behavior. Generative UIs are an upgrade in UI development, mirroring the rise of generative AI. 
 
 ## Features
 With Sarya:
