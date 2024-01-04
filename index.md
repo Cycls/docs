@@ -57,5 +57,13 @@ With Sarya:
 - **Superchat (Sarya)**: Central hub that interprets UI events and routes to apps accordingly.
 - **Apps**: Published third-party apps on Superchat, each with a public handler.
 
+## Try it (WIP)
+Here are several deplyed apps you can try out on the web:
+| Description        | Link  |
+|--------------------|-------|
+| OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt) |
+| OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt) |
+| OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt) |
+
 
 
