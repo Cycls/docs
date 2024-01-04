@@ -62,9 +62,9 @@ Here are several deplyed apps you can try out on the web:
 
 | App          | Description        | Link                                                  |
 |:-------------|:-------------------|:------------------------------------------------------|
-| @chat-gpt    | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt)  |
-| @chat-gpt    | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt)  |
-| @chat-gpt    | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt)  |
+| `@chat-gpt`  | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt)  |
+| `@chat-gpt`  | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt)  |
+| `@chat-gpt`  | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt)  |
 
 
 
