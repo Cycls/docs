@@ -60,7 +60,7 @@ With Sarya:
 ## Try it (WIP)
 Here are several deplyed apps you can try out on the web:
 | Description        | Link  |
-|--------------------|-------|
+|:--------------------|:-------|
 | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt) |
 | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt) |
 | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt) |
