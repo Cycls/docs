@@ -59,26 +59,12 @@ With Sarya:
 
 ## Try it (WIP)
 Here are several deplyed apps you can try out on the web:
-| App       | Description        | Link                                                 |
-|:----------|:-------------------|:-----------------------------------------------------|
-| @chat-gpt | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt) |
-| @chat-gpt | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt) |
-| @chat-gpt | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt) |
 
-
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-| App          | Description       | Link                                                  |
-|:-------------|:------------------|:------------------------------------------------------|
-| @chat-gpt    | good swedish fish | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt)  |
-| @chat-gpt    | good and plenty   | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt)  |
-| @chat-gpt    | good `oreos`      | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt)  |
+| App          | Description        | Link                                                  |
+|:-------------|:-------------------|:------------------------------------------------------|
+| @chat-gpt    | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt)  |
+| @chat-gpt    | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt)  |
+| @chat-gpt    | OpenAI chatGPT app | [chat.sarya.com/@chat-gpt](chat.sarya.com/@chat-gpt)  |
 
 
 
