@@ -22,16 +22,10 @@
   },
   "anchors": [
     {
-      "name": "API Components",
-      "icon": "rectangle-terminal",
-      "color": "#f59f0b",
-      "url": "api-components"
-    },
-    {
-      "name": "Community",
+      "name": "Discord",
       "icon": "comments",
       "color": "#2564eb",
-      "url": "https://discord.gg/MPNgtSZkgK"
+      "url": "https://discord.gg/ETCEJZv6"
     }
   ],
   "navigation": [
@@ -53,9 +47,9 @@
     }
   ],
   "footerSocials": {
-    "github": "https://github.com/mintlify",
-    "discord": "https://discord.gg/MPNgtSZkgK",
-    "twitter": "https://twitter.com/mintlify"
+    "github": "https://github.com/cycls",
+    "discord": "https://discord.gg/ETCEJZv6",
+    "twitter": "https://twitter.com/cycls_"
   },
   "integrations": {
     "intercom": "abcdefz",
